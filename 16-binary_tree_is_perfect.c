@@ -2,7 +2,7 @@
 
 
 /**
- * tree_height - calculates the highest number of levels down to a
+ * s_tree_height - calculates the highest number of levels down to a
  *               leaf from a node
  *
  * @tree: the node to be checked
